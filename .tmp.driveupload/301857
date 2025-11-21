@@ -1,0 +1,14 @@
+// 🔥 MÓDULO INFERNO - CHAIN-OF-CARALHA SYSTEM
+// Sistema hierárquico de tarefinhas impossíveis de errar
+
+pub mod tarefinha;
+pub mod developer_profiles;
+pub mod commit_system;
+pub mod review_engine;
+pub mod chain_manager;
+
+pub use tarefinha::*;
+pub use developer_profiles::*;
+pub use commit_system::*;
+pub use review_engine::*;
+pub use chain_manager::*;

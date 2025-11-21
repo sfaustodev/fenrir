@@ -1,0 +1,211 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+fenrir_tasks.log
+nohup.out
+
+# Local configuration
+.env
+.env.local
+.env.*.local
+config.local.*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+fenrir_cli_db/
+
+# Temporary files
+*.tm1p
+*.temp
+*.pid
+*.seed
+*.pid.lock
+
+# Build artifacts
+dist/
+build/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Local data directories
+data/
+logs/
+output/
+
+# 🔒 PENTEST SECURITY FILES - NEVER COMMIT 🔒
+pentest_reports/
+evidence_collection/
+sensitive_data/
+target_data/
+classified_findings/
+illegal_content_alerts/
+victim_evidence/
+chat_logs/
+browser_history/
+email_exports/
+password_dumps/
+hash_cracks/
+exploit_results/
+vulnerability_scans/
+network_captures/
+malware_samples/
+stolen_data/
+leaked_documents/
+
+# 🚨 CRIMINAL EVIDENCE - PROTECTED BY LAW 🚨
+criminal_evidence/
+child_exploitation_alerts/
+illegal_content_detection/
+human_trafficking_evidence/
+terrorism_evidence/
+financial_crime_evidence/
+cybercrime_evidence/
+evidence_chain_of_custody/
+forensic_analysis/
+legal_case_files/
+
+# 📊 CLIENT CONFIDENTIAL DATA 📊
+client_reports/
+executive_summaries/
+findings_deliverables/
+professional_reports/
+billing_records/
+contracts/
+nda_files/
+client_communications/
+consultation_notes/
+
+# 🎯 TARGET SPECIFIC DATA 🎯
+target_profiles/
+osint_results/
+social_engineering_logs/
+phishing_campaigns/
+reconnaissance_data/
+attack_vectors/
+exploitation_logs/
+post_exploitation_data/
+persistence_mechanisms/
+
+# 🔐 ENCRYPTED EVIDENCE 🔐
+encrypted_evidence/
+secure_vaults/
+classified_archives/
+protected_witness_data/
+whistleblower_materials/
+
+# 📱 MOBILE DEVICE EVIDENCE 📱
+phone_extractions/
+mobile_backups/
+sms_logs/
+call_records/
+location_data/
+app_data/
+cloud_syncs/
+
+# 💻 COMPUTER FORENSICS 💻
+disk_images/
+memory_dumps/
+registry_hives/
+browser_artifacts/
+system_logs/
+file_carving_results/
+deleted_file_recovery/
+
+# 🌐 NETWORK FORENSICS 🌐
+packet_captures/
+network_flows/
+dns_logs/
+firewall_logs/
+ids_alerts/
+proxied_traffic/
+vpn_connections/
+
+# 📸 VISUAL EVIDENCE 📸
+screenshots/
+screen_recordings/
+video_evidence/
+photo_evidence/
+document_scans/
+handwritten_notes/
+
+# 💰 FINANCIAL EVIDENCE 💰
+transaction_records/
+bank_statements/
+crypto_wallets/
+payment_logs/
+invoice_records/
+tax_documents/
+
+# 🏢 CORPORATE ESPIONAGE EVIDENCE 🏢
+trade_secrets/
+intellectual_property/
+source_code_leaks/
+proprietary_documents/
+employee_records/
+customer_databases/
+
+# 📋 REPORT TEMPLATES AND DRAFTS 📋
+report_drafts/
+executive_drafts/
+finding_templates/
+risk_assessments/
+remediation_plans/
+legal_opinions/
+
+# 🔍 INVESTIGATION TOOLS 🔍
+custom_scripts/
+investigation_tools/
+analysis_algorithms/
+automation_workflows/
+data_pipelines/
+
+# 📊 ANALYSIS RESULTS 📊
+analysis_results/
+data_visualizations/
+statistical_reports/
+trend_analysis/
+risk_matrices/
+threat_intelligence/
+
+# 🚨 EMERGENCY SECURITY ALERTS 🚨
+active_threats/
+security_incidents/
+breach_notifications/
+emergency_reports/
+critical_findings/
+high_priority_alerts/
+
+# 🗃️ ARCHIVED INVESTIGATIONS 🗃️
+closed_cases/
+archived_evidence/
+cold_cases/
+historical_data/
+reference_materials/
+
+# 🔧 TOOL CONFIGURATION AND OUTPUTS 🔧
+tool_configs/
+scan_results/
+automated_reports/
+scheduled_tasks/
+cron_logs/
+backup_configs

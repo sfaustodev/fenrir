@@ -1,0 +1,1 @@
+/Users/peluche/CLI\ Fenrir/target/debug/fenrir: /Users/peluche/CLI\ Fenrir/executor.rs /Users/peluche/CLI\ Fenrir/ferramentas.rs /Users/peluche/CLI\ Fenrir/main.rs /Users/peluche/CLI\ Fenrir/oraculo.rs /Users/peluche/CLI\ Fenrir/terminal.rs
