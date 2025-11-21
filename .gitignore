@@ -1,0 +1,72 @@
+# Rust
+/target/
+Cargo.lock
+**/*.rs.bk
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+*.tmp
+*.temp
+
+# Cache directories
+.cache/
+cache/
+
+# Backup files
+*.bak
+*.backup
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+dist/
+build/
+
+# Dependency directories
+node_modules/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# OS generated files
+Thumbs.db
+.DS_Store?
+ehthumbs.db
+Desktop.ini
+
+# Fenrir specific
+.fenrir/
+reports/
+fenrir_tasks.log
+*.log
+
+# Temporary upload directories
+.tmp.driveupload/
+
+# Qodo
+.qodo/
